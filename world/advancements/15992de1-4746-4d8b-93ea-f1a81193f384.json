@@ -380,6 +380,7 @@
       "rotten_flesh": "2025-03-01 17:17:50 -0600",
       "cooked_porkchop": "2025-03-01 18:05:07 -0600",
       "cooked_beef": "2025-02-28 19:20:13 -0600",
+      "cooked_mutton": "2025-03-03 15:13:15 -0600",
       "apple": "2025-02-27 12:39:32 -0600",
       "cooked_cod": "2025-02-28 18:52:48 -0600",
       "golden_carrot": "2025-02-28 19:34:30 -0600"
@@ -706,6 +707,12 @@
   "minecolonies:minecolonies/start_builder": {
     "criteria": {
       "builder_request": "2025-02-27 13:50:25 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-03-03 15:27:00 -0600"
     },
     "done": true
   },
@@ -1126,6 +1133,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-03-02 09:13:04 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-03-03 15:50:58 -0600"
     },
     "done": true
   },
@@ -1658,6 +1671,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-02-27 12:37:45 -0600",
       "inv_changed-diamond": "2025-02-27 12:37:45 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-03-03 15:27:00 -0600"
     },
     "done": true
   },
