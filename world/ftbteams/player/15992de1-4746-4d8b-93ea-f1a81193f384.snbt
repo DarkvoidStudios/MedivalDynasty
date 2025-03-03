@@ -1,0 +1,15 @@
+{
+	id: "15992de1-4746-4d8b-93ea-f1a81193f384"
+	type: "player"
+	player_name: "Excendia"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Excendia"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

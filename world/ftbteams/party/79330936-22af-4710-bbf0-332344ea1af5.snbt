@@ -1,0 +1,23 @@
+{
+	id: "79330936-22af-4710-bbf0-332344ea1af5"
+	type: "party"
+	owner: "15992de1-4746-4d8b-93ea-f1a81193f384"
+	ranks: {
+		15992de1-4746-4d8b-93ea-f1a81193f384: "owner"
+		2614ede0-dead-452f-a3ee-a538940d3fbf: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Tylors Hund"
+		"ftbteams:description": "Meine Freundin hat vor mir auf den Boden gepinkelt du Hurensohn"
+		"ftbteams:color": "#FF596D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740688203582L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Excendia\"}]}" }
+		{ from: "15992de1-4746-4d8b-93ea-f1a81193f384", date: 1740688203603L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Brok3nmind\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740688207057L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Brok3nmind\"}]}" }
+		{ from: "15992de1-4746-4d8b-93ea-f1a81193f384", date: 1740688218222L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Brok3nmind\"}]}" }
+	]
+	extra: { }
+}

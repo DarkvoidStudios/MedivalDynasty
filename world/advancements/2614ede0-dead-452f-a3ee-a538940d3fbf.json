@@ -1,0 +1,1975 @@
+{
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-02-27 17:36:50 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-28 20:03:40 -0600"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-02-28 18:36:23 -0600"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_mace": {
+    "criteria": {
+      "find": "2025-02-28 20:03:56 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2025-02-27 16:39:59 -0600"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-02-27 18:28:36 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-02-28 09:14:38 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2025-03-01 17:04:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-27 18:14:56 -0600"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-03-01 13:15:23 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2025-03-01 19:38:00 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2025-02-27 16:33:38 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-02-27 14:17:01 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_key_guard": {
+    "criteria": {
+      "find": "2025-02-27 17:40:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-27 19:03:15 -0600"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-02-27 11:52:19 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-02-27 12:21:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-28 20:00:06 -0600"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/nest_locator": {
+    "criteria": {
+      "get_item": "2025-02-28 09:55:40 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "yam_seed": "2025-03-01 20:04:03 -0600"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-02-27 17:16:41 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-02-27 16:34:33 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-02-27 10:13:23 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2025-02-28 04:38:47 -0600"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-02-27 09:54:58 -0600",
+      "has_cobweb": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "yam_seed": "2025-03-01 20:04:03 -0600",
+      "tea_seed": "2025-02-28 04:49:38 -0600",
+      "elderberry_seed": "2025-02-28 04:49:38 -0600",
+      "pepper_seed": "2025-03-01 20:04:03 -0600",
+      "broccoli_seed": "2025-02-28 18:56:03 -0600",
+      "coffee_seed": "2025-02-28 18:56:03 -0600",
+      "spinach_seed": "2025-02-28 04:41:19 -0600",
+      "corn_seed": "2025-03-01 20:33:56 -0600",
+      "mustard_seed": "2025-03-01 20:33:56 -0600"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-03-01 20:28:40 -0600"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "crafting_table": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2025-02-27 13:09:18 -0600"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-02-28 05:57:50 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 14:26:48 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-02-27 10:12:49 -0600"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-27 11:54:27 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-02-28 18:36:23 -0600"
+    },
+    "done": false
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-02-27 11:57:24 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "autumnity:husbandry/cure_foul_taste": {
+    "criteria": {
+      "cure_foul_taste": "2025-03-01 14:01:04 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 18:40:52 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2025-02-28 06:32:33 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2025-02-27 18:09:55 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-02-27 12:21:50 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-27 14:16:44 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cookie": "2025-02-27 14:17:45 -0600",
+      "neapolitan:strawberry_scones": "2025-02-27 18:04:38 -0600",
+      "potato": "2025-03-01 20:37:15 -0600",
+      "bread": "2025-02-27 10:16:24 -0600",
+      "golden_apple": "2025-02-27 18:03:59 -0600",
+      "melon_slice": "2025-03-01 17:44:24 -0600",
+      "neapolitan:strawberries": "2025-02-27 16:50:29 -0600",
+      "abnormals_delight:mixed_salad": "2025-02-27 18:06:03 -0600",
+      "cooked_porkchop": "2025-03-01 18:17:57 -0600",
+      "cooked_beef": "2025-02-27 17:23:13 -0600",
+      "mushroom_stew": "2025-02-28 20:28:02 -0600",
+      "sweet_berries": "2025-03-01 15:21:21 -0600",
+      "buzzier_bees:honey_bread": "2025-02-27 10:14:59 -0600",
+      "apple": "2025-02-27 10:10:54 -0600",
+      "golden_carrot": "2025-02-27 17:09:37 -0600",
+      "enchanted_golden_apple": "2025-02-28 19:33:46 -0600"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-02-27 17:23:49 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-02-28 05:26:36 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-03-01 14:32:11 -0600"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-03-01 20:42:27 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-02-28 20:03:42 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-02-27 10:11:40 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 17:23:48 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-28 06:41:32 -0600"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-02-27 14:15:36 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2025-02-27 12:54:02 -0600"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2025-02-27 15:48:33 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_dreadnought_stave": {
+    "criteria": {
+      "find": "2025-02-27 17:38:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-28 16:41:25 -0600"
+    },
+    "done": false
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-27 12:30:43 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-27 10:12:11 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-02-27 16:40:40 -0600"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-02-27 14:15:36 -0600"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-27 17:38:09 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 17:23:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-27 12:51:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-27 16:39:44 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2025-02-28 20:04:02 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-02-27 13:26:40 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-27 10:10:54 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-02-27 16:43:27 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-02-27 18:16:01 -0600"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 17:40:16 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-28 19:40:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-27 11:56:24 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2025-02-28 19:51:01 -0600"
+    },
+    "done": false
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "anchovy": "2025-03-01 13:27:22 -0600",
+      "clam": "2025-03-01 13:29:37 -0600",
+      "cooked_tuna": "2025-03-01 13:26:57 -0600",
+      "tuna": "2025-03-01 13:26:57 -0600",
+      "crab": "2025-03-01 13:29:48 -0600"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-02-28 17:24:00 -0600",
+      "opened_shulker": "2025-02-28 20:03:42 -0600",
+      "opened_chest": "2025-02-27 11:54:27 -0600"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-02-27 13:50:25 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-02-28 06:40:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-28 19:39:56 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder_2": {
+    "criteria": {
+      "builders_hut": "2025-02-28 09:01:59 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-02-27 15:48:46 -0600"
+    },
+    "done": true
+  },
+  "tetra:scrolls/root": {
+    "criteria": {
+      "find": "2025-02-27 17:36:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-02-27 12:00:05 -0600",
+      "minecraft:blaze": "2025-02-28 17:03:25 -0600",
+      "minecraft:skeleton": "2025-02-27 13:38:14 -0600",
+      "minecraft:spider": "2025-02-27 12:14:03 -0600",
+      "minecraft:creeper": "2025-02-27 17:41:34 -0600",
+      "minecraft:zombified_piglin": "2025-02-27 18:59:14 -0600",
+      "minecraft:wither_skeleton": "2025-02-27 18:44:57 -0600",
+      "minecraft:husk": "2025-02-28 09:26:33 -0600",
+      "minecraft:ender_dragon": "2025-02-28 19:39:56 -0600",
+      "minecraft:shulker": "2025-02-28 19:52:40 -0600",
+      "minecraft:cave_spider": "2025-02-28 18:49:47 -0600",
+      "quark:wraith": "2025-02-27 18:18:34 -0600",
+      "minecraft:piglin": "2025-02-28 17:27:19 -0600",
+      "minecraft:stray": "2025-02-27 17:19:17 -0600",
+      "minecraft:enderman": "2025-02-28 17:54:17 -0600",
+      "minecraft:endermite": "2025-02-28 20:03:32 -0600",
+      "minecraft:zombie": "2025-02-27 14:02:09 -0600",
+      "minecraft:drowned": "2025-02-27 12:15:39 -0600",
+      "minecraft:zombie_villager": "2025-02-27 13:37:38 -0600"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-27 18:14:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-27 17:22:05 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2025-02-27 17:36:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-28 05:57:50 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2025-02-28 17:01:17 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2025-02-27 13:42:09 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-02-27 16:09:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-28 05:15:28 -0600"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2025-02-28 06:16:11 -0600",
+      "brewingstand": "2025-02-27 17:14:01 -0600",
+      "smithingtable": "2025-02-28 17:10:57 -0600"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-27 17:20:18 -0600"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2025-02-27 18:14:56 -0600"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-28 17:25:16 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 11:59:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-27 16:37:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-02-28 04:49:38 -0600"
+    },
+    "done": true
+  },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2025-03-01 15:26:11 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-28 19:39:52 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-27 12:53:11 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2025-02-28 04:38:47 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-03-02 16:52:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-28 18:49:31 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-02-27 11:59:56 -0600"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-02-28 17:24:00 -0600"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2025-03-01 15:26:11 -0600"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-02-27 18:38:46 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-03-02 16:51:52 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-02-28 06:03:34 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-02-28 19:54:32 -0600"
+    },
+    "done": false
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-03-01 13:15:23 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "mixed_salad": "2025-02-27 18:06:03 -0600"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-02-27 17:10:21 -0600",
+      "potato": "2025-03-01 19:38:37 -0600",
+      "wheat": "2025-03-02 16:35:36 -0600",
+      "carrot": "2025-03-01 19:38:28 -0600"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-28 19:32:42 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/fishing_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-03-01 13:30:14 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 16:20:42 -0600"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-27 14:15:36 -0600"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-02-28 04:47:31 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-02-27 18:28:36 -0600"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-28 04:46:40 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-02-27 11:56:30 -0600"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_compound_string": {
+    "criteria": {
+      "find": "2025-02-27 17:40:00 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-28 19:40:32 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "nourished_nether:nourished_nether_root": {
+    "criteria": {
+      "nourished_nether_root": "2025-02-27 18:14:56 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-02-28 19:42:24 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-02-27 12:06:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-27 18:39:07 -0600"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-02-27 12:14:20 -0600"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:void_barrens": "2025-02-28 19:49:38 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-02-27 10:12:11 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "beautify:candleabras": {
+    "criteria": {
+      "requirement": "2025-02-27 16:47:31 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-03-02 17:13:13 -0600"
+    },
+    "done": false
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-02-28 04:41:17 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "pepper_seed": "2025-03-01 20:04:03 -0600",
+      "corn_seed": "2025-03-01 20:33:56 -0600",
+      "broccoli_seed": "2025-02-28 18:56:03 -0600",
+      "mustard_seed": "2025-03-01 20:33:56 -0600"
+    },
+    "done": false
+  },
+  "art_of_forging:materials/vobrite_crystal": {
+    "criteria": {
+      "vobrite_crystal": "2025-02-27 11:54:33 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-27 12:07:51 -0600"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-03-01 13:15:23 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_heart": {
+    "criteria": {
+      "soul_heart": "2025-02-28 04:46:21 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-02-27 09:54:59 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-02-27 12:06:00 -0600"
+    },
+    "done": false
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2025-03-01 16:53:44 -0600"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage": {
+    "criteria": {
+      "get_item": "2025-02-28 09:54:36 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2025-03-01 15:27:01 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 14:48:55 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-27 12:31:06 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-03-01 14:32:08 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-02-27 18:39:02 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_halberd": {
+    "criteria": {
+      "find": "2025-02-27 17:36:50 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2025-02-28 17:23:01 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-01 20:10:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-27 10:12:53 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-02-27 11:54:41 -0600"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-28 04:47:13 -0600"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-02-27 12:14:20 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-27 17:04:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-28 19:51:56 -0600"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-02-27 14:15:44 -0600"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-02-27 10:11:40 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-02-27 13:26:40 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-02-28 04:46:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-28 19:46:02 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/master_mode": {
+    "criteria": {
+      "game_state": "2025-02-28 19:39:56 -0600"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-02-27 09:54:58 -0600",
+      "has_cracked_stone_bricks": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-02-27 12:00:05 -0600"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-02-27 12:06:31 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-27 11:58:10 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-01 13:48:18 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-02-27 14:16:45 -0600"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-02-28 10:00:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-28 17:03:25 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tetra:art_of_forging/root": {
+    "criteria": {
+      "sword": "2025-03-01 15:27:01 -0600"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-03-02 16:19:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-27 12:09:48 -0600",
+      "minecraft:taiga": "2025-02-27 09:54:59 -0600",
+      "minecraft:eroded_badlands": "2025-03-01 16:03:18 -0600",
+      "minecraft:frozen_river": "2025-02-27 11:59:02 -0600",
+      "minecraft:birch_forest": "2025-02-27 12:14:52 -0600",
+      "minecraft:savanna_plateau": "2025-02-28 18:38:12 -0600",
+      "minecraft:stony_peaks": "2025-02-28 18:38:35 -0600",
+      "minecraft:sparse_jungle": "2025-02-27 12:27:35 -0600",
+      "minecraft:lukewarm_ocean": "2025-02-27 12:24:02 -0600",
+      "minecraft:river": "2025-02-27 12:14:42 -0600",
+      "minecraft:snowy_plains": "2025-02-27 11:59:06 -0600",
+      "minecraft:stony_shore": "2025-02-27 12:13:37 -0600",
+      "minecraft:dripstone_caves": "2025-02-28 18:45:24 -0600",
+      "autumnity:maple_forest": "2025-02-27 12:06:46 -0600",
+      "minecraft:grove": "2025-03-01 14:48:56 -0600",
+      "minecraft:jagged_peaks": "2025-03-01 14:49:23 -0600",
+      "minecraft:cold_ocean": "2025-02-27 11:53:39 -0600",
+      "minecraft:forest": "2025-02-27 14:18:00 -0600",
+      "minecraft:frozen_ocean": "2025-02-27 11:58:21 -0600",
+      "minecraft:desert": "2025-03-01 16:02:44 -0600",
+      "minecraft:jungle": "2025-02-27 12:16:52 -0600",
+      "minecraft:snowy_beach": "2025-02-27 11:58:12 -0600",
+      "minecraft:old_growth_birch_forest": "2025-02-27 12:13:13 -0600",
+      "minecraft:deep_dark": "2025-03-01 14:50:23 -0600",
+      "minecraft:meadow": "2025-02-27 13:32:43 -0600",
+      "minecraft:savanna": "2025-02-27 12:50:19 -0600"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_icy": "2025-02-27 11:59:38 -0600"
+    },
+    "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-02-27 12:06:31 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2025-02-28 06:52:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-28 20:00:32 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-02-27 12:36:22 -0600"
+    },
+    "done": true
+  },
+  "buzzier_bees:husbandry/use_honey_bread": {
+    "criteria": {
+      "use_honey_bread": "2025-02-27 18:41:10 -0600"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-27 09:54:58 -0600",
+      "inv_changed-diamond": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2025-02-27 11:55:02 -0600"
+    },
+    "done": false
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-02-28 06:40:02 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 18:09:56 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-02-28 04:47:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-02 16:35:36 -0600"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-27 16:23:34 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "coffee_seed": "2025-02-28 18:56:03 -0600"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-02-28 06:22:37 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-03-01 14:31:52 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-02-27 10:12:50 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-02-27 13:59:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-03-01 13:26:48 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
+    "criteria": {
+      "has_tattered_armor": "2025-02-27 17:19:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-28 19:32:42 -0600"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2025-02-27 10:12:50 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-27 12:48:46 -0600"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-03-01 13:15:23 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 16:21:35 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-02-28 04:41:17 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-03-02 16:51:53 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-28 17:30:25 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-03-01 13:58:33 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-28 17:22:24 -0600",
+      "minecraft:soul_sand_valley": "2025-02-27 18:15:01 -0600",
+      "minecraft:nether_wastes": "2025-02-28 17:17:50 -0600",
+      "minecraft:warped_forest": "2025-02-28 17:32:50 -0600"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 13:51:08 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-02-27 11:57:24 -0600"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-02-27 10:16:06 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/undead_army": {
+    "criteria": {
+      "army_defeated": "2025-02-27 17:19:53 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_delivery_person": {
+    "criteria": {
+      "delivery_person": "2025-03-01 20:02:59 -0600"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-27 12:06:31 -0600"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-02-27 11:56:24 -0600"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2025-02-27 17:14:01 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "spinach_seed": "2025-02-28 04:41:19 -0600",
+      "tea_seed": "2025-02-28 04:49:38 -0600",
+      "elderberry_seed": "2025-02-28 04:49:38 -0600"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 11:59:54 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
