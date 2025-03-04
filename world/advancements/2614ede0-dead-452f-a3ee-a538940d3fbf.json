@@ -1102,6 +1102,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2025-03-04 06:23:13 -0600"
+    },
+    "done": true
+  },
   "majruszsdifficulty:progressive_difficulty/ender_dragon_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-02-28 19:40:32 -0600"
