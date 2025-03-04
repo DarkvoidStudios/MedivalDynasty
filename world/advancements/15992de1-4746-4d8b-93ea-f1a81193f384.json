@@ -655,9 +655,14 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "sea_lettuce": "2025-03-04 16:41:50 -0600",
+      "cooked_shrimp": "2025-03-04 16:42:40 -0600",
       "anchovy": "2025-02-28 16:53:54 -0600",
+      "clam": "2025-03-04 16:44:04 -0600",
       "cooked_tuna": "2025-02-28 16:51:22 -0600",
-      "tuna": "2025-02-28 16:51:22 -0600"
+      "tuna": "2025-02-28 16:51:22 -0600",
+      "oyster": "2025-03-04 16:42:40 -0600",
+      "crab": "2025-03-04 16:45:01 -0600"
     },
     "done": false
   },
@@ -866,6 +871,12 @@
       "composter": "2025-03-01 17:04:45 -0600"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2025-03-04 16:07:47 -0600"
+    },
+    "done": true
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
@@ -1084,6 +1095,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/fishing_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-03-04 16:51:50 -0600"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-02-27 15:44:43 -0600"
@@ -1129,6 +1146,12 @@
   "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-02-27 14:33:02 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2025-03-04 15:57:06 -0600"
     },
     "done": true
   },

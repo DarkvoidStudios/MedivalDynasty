@@ -13,9 +13,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-03-04 15:50:21 -0600"
+      "0": "2025-03-04 15:50:21 -0600",
+      "1": "2025-03-04 16:12:07 -0600"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -394,6 +395,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-03-04 16:56:28 -0600",
       "cookie": "2025-02-27 14:17:45 -0600",
       "neapolitan:strawberry_scones": "2025-02-27 18:04:38 -0600",
       "potato": "2025-03-01 20:37:15 -0600",
@@ -440,6 +442,12 @@
   "create:brass": {
     "criteria": {
       "0": "2025-03-04 11:58:03 -0600"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-04 15:57:09 -0600"
     },
     "done": true
   },
@@ -1160,6 +1168,12 @@
   "tetra:scrolls/find_scroll_compound_string": {
     "criteria": {
       "find": "2025-02-27 17:40:00 -0600"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-03-04 15:58:20 -0600"
     },
     "done": true
   },
@@ -2069,6 +2083,12 @@
   "minecolonies:production/build_delivery_person": {
     "criteria": {
       "delivery_person": "2025-03-01 20:02:59 -0600"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-03-04 15:58:20 -0600"
     },
     "done": true
   },
