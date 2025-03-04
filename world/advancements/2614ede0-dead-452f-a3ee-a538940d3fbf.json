@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-04 11:58:03 -0600"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
