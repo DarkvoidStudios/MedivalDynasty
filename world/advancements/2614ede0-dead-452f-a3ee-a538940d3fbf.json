@@ -1285,6 +1285,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-03-04 07:02:46 -0600"
+    },
+    "done": true
+  },
   "minecolonies:production/build_warehouse": {
     "criteria": {
       "warehouse": "2025-03-01 16:53:44 -0600"
@@ -1318,6 +1324,12 @@
   "tetra:upgrades/sword_upgrade": {
     "criteria": {
       "module": "2025-03-01 15:27:01 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-03-04 07:02:49 -0600"
     },
     "done": true
   },
