@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-03-04 10:41:26 -0600"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-03-04 10:51:53 -0600"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-02-27 09:54:58 -0600"
@@ -797,6 +809,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-03-04 10:48:25 -0600"
+    },
+    "done": true
+  },
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
@@ -831,7 +849,8 @@
     "criteria": {
       "barrel": "2025-02-28 06:16:11 -0600",
       "brewingstand": "2025-02-27 17:14:01 -0600",
-      "smithingtable": "2025-02-28 17:10:57 -0600"
+      "smithingtable": "2025-02-28 17:10:57 -0600",
+      "cauldron": "2025-03-04 10:50:11 -0600"
     },
     "done": false
   },
@@ -928,6 +947,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-27 12:53:11 -0600"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-03-04 10:24:51 -0600"
     },
     "done": true
   },
@@ -1345,6 +1370,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-03-04 10:21:14 -0600"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
@@ -1532,6 +1563,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-03-04 10:36:12 -0600"
+    },
+    "done": true
+  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2025-02-27 12:06:31 -0600"
@@ -1607,6 +1644,12 @@
   "tetra:art_of_forging/root": {
     "criteria": {
       "sword": "2025-03-01 15:27:01 -0600"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-03-04 10:35:22 -0600"
     },
     "done": true
   },
@@ -1888,6 +1931,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "soul_campfire": "2025-03-04 10:45:26 -0600"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
@@ -1908,6 +1957,12 @@
       "minecraft:warped_forest": "2025-02-28 17:32:50 -0600"
     },
     "done": false
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-03-04 10:35:22 -0600"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
@@ -1936,6 +1991,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-03-04 10:49:39 -0600"
     },
     "done": true
   },
