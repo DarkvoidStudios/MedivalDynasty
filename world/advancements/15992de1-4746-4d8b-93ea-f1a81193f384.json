@@ -284,6 +284,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-03-04 15:35:44 -0600",
       "in_better_spider_dungeon": "2025-03-01 17:25:40 -0600"
     },
     "done": false
@@ -380,6 +381,7 @@
       "rotten_flesh": "2025-03-01 17:17:50 -0600",
       "cooked_porkchop": "2025-03-01 18:05:07 -0600",
       "cooked_beef": "2025-02-28 19:20:13 -0600",
+      "cooked_chicken": "2025-03-04 15:38:40 -0600",
       "cooked_mutton": "2025-03-03 15:13:15 -0600",
       "apple": "2025-02-27 12:39:32 -0600",
       "cooked_cod": "2025-02-28 18:52:48 -0600",
@@ -396,6 +398,12 @@
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
       "has_planks": "2025-03-02 07:11:33 -0600"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-04 15:14:04 -0600"
     },
     "done": true
   },
@@ -1256,6 +1264,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-04 15:35:44 -0600"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-02-27 12:48:33 -0600"
@@ -1600,6 +1614,7 @@
       "minecraft:jungle": "2025-02-27 12:38:11 -0600",
       "minecraft:flower_forest": "2025-02-28 17:41:42 -0600",
       "minecraft:frozen_peaks": "2025-02-28 18:04:04 -0600",
+      "minecraft:old_growth_birch_forest": "2025-03-04 15:28:02 -0600",
       "minecraft:deep_dark": "2025-02-27 17:48:09 -0600",
       "minecraft:meadow": "2025-02-27 13:19:47 -0600",
       "minecraft:savanna": "2025-02-27 12:50:36 -0600",
@@ -1866,6 +1881,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 12:37:45 -0600"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-04 15:39:20 -0600"
     },
     "done": true
   },

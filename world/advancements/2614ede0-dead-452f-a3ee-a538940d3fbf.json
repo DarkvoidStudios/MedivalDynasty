@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-04 15:50:21 -0600"
+    },
+    "done": false
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-27 09:54:58 -0600"
