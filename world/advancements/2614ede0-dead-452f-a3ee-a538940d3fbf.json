@@ -1123,6 +1123,12 @@
     },
     "done": true
   },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-03-05 12:49:54 -0600"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-02-27 16:20:42 -0600"
