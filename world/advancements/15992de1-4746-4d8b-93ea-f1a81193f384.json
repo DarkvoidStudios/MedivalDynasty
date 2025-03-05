@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecolonies:military/build_barracks": {
+    "criteria": {
+      "barracks": "2025-03-05 13:04:43 -0600"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2025-02-27 14:24:32 -0600"
